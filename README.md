@@ -227,7 +227,7 @@ Please cite the article and the associated dataset.
 
 @dataset{kim_spin1_data_2026,
   author    = {Kim, Jongmin and Jeong, Minsung and Han, Jongyoon and Shin, Y.},
-  title     = {Source data for "Efficient ensemble randomization by tuning chaos in a nonlinear spin-1 system"},
+  title     = {Data and analysis scripts for "Efficient ensemble randomization by tuning chaos in a nonlinear spin-1 system"},
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.24161774},
